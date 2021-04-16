@@ -1,0 +1,9 @@
+unit-tests
+*.out
+*.o
+*.so
+*.a
+.vscode
+.vs
+*.json
+debug
